@@ -1,3 +1,4 @@
 - mue nome é @Gu1lherme-dev;
 - eu estou tentando aprender prgramação;
-- no aplicativo eu vou tentar claborar com as pessoas que estão no mesmo nivel que eu.
+- no aplicativo eu vou tentar claborar com as pessoas que estão no mesmo nivel que eu;
+-e estou aprendendo sobre o site no alura.
